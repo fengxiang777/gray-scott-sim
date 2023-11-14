@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data1/users/fengxiang/stuff/gray-scott-sim/gray-scott-sim/src/gs.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+fstream
+-
+sstream
+-
+cmath
+-
+
