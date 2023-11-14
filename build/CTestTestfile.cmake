@@ -1,8 +1,0 @@
-# CMake generated Testfile for 
-# Source directory: /data1/users/fengxiang/stuff/gray-scott-sim/gray-scott-sim
-# Build directory: /data1/users/fengxiang/stuff/gray-scott-sim/gray-scott-sim/build
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-subdirs("third")
-subdirs("src")
