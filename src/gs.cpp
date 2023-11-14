@@ -5,7 +5,7 @@
 #include <fstream>
 #include <sstream>
 #include <cmath>
-
+//
 // Define simulation parameters
 const int width = 256;                // Width of the grid
 const int height = 256;               // Height of the grid
