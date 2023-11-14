@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(gray-scott-sim)
+add_subdirectory(third)
+add_subdirectory(src)
+set(CMAKE_CXX_STANDARD 17)
+enable_testing()
